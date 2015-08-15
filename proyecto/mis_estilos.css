@@ -1,0 +1,17 @@
+body{
+  background-color:#5bc0de;	
+}
+h1{
+  background-color:#ccc;
+}
+	
+
+.barra{
+	margin-left: 20%;
+	margin-right: 22%;
+}
+
+.boton_accion{
+	margin-left: 85%;
+	margin-top: -70px;
+}

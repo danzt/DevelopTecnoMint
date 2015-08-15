@@ -1,0 +1,40 @@
+body{
+  background-color:#5bc0de;	
+}
+h1{
+  color:hsl(160.0, 3.7%, 31.8%);
+	margin-right:23%;
+	margin-left: 26%;
+}
+	
+
+.barra{
+	margin-left: 20%;
+	margin-right: 12%;
+}
+
+.boton_accion{
+	margin-left: 85%;
+	margin-top: -70px;
+}
+
+#adjuntar{
+	margin-top: 3%;
+	margin-left: 73%;
+	margin-right: 4%;
+}
+
+.pagos{
+	margin-top: 5%;
+	margin-left:66%;
+}
+.formularios{
+	margin-top: 3%;
+	margin-right: 44%;
+	margin-left: 23%;
+}
+
+.registro{
+	margin-right:22%;
+	margin-left: -19%;
+}
